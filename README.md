@@ -40,7 +40,7 @@ Well, why not? Assist was created from the culmination of different ideas from m
 ## Assist Modules
 Assist has different programs it contains that makes it all tick together.
   - [Assist Background Client](https://github.com/AssistTeam/AssistBackgroundClient)
-  - [Assist Installer](https://github.com/AssistTeam/AssistInstaller)
+  - [Assist Installer](https://github.com/ValorantAssist/Assist/releases/download/1.0.0.14/Assist.zip)
   
 ## External Packages Used
 Some External Packages were used to create this project with ease and implement cool features:
